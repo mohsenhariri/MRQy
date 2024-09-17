@@ -1,5 +1,3 @@
-<!-- ![Picture1](https://user-images.githubusercontent.com/50635618/77593997-b1492a00-6ecb-11ea-939c-c8962f371e5a.png) -->
-
 ![alt text](image.png)
 
 ## Front-end View
